@@ -1,0 +1,14 @@
+{
+  "name": "zadanie/zadanie",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "XYZ"
+    }
+  ],
+  "require": {}
+}
